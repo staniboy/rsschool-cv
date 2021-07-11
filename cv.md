@@ -27,7 +27,7 @@ My current goal is to become hired front-end developer so I can make a decent li
 * Python
 
 ### Code Examples
-While I had a lot of class projects during my educational years, I don't feel like sharing it since it often feels incomplete or lacks any sense to exist. Instead here is my sloppy PWA to-do list :D. I used Vue.js with TypeScript, bootstrap for CSS. Tasks are draggable and information is stored via localstorage.
+While I had a lot of class projects during my educational years, I don't feel like sharing it since it often feels incomplete or lacks any sense to exist. Instead here is my sloppy PWA to-do list :D. I used **Vue.js** with **TypeScript**, **Bootstrap** for CSS. Tasks are draggable and information is stored via **localstorage**.
 
 [Code](https://github.com/staniboy/agenda-vue) | [App](https://staniboy.github.io/agenda-vue/)
 
