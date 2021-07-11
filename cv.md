@@ -4,9 +4,9 @@
 
 ### Contacts
 
-* email: [stanley.v@outlook.com](mailto:stanley.v@outlook.com) 
-* discord: Stanley#4852
+* email: [stanley.v@outlook.com](mailto:stanley.v@outlook.com)
 * github: [@staniboy](https://github.com/staniboy)
+* discord: Stanley#4852
 
 ### Languages
 
